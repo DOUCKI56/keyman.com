@@ -5,7 +5,7 @@
   $cdnUrlBase = getKeymanWebHref();
 ?>
 
-<html lang="en">
+<html lang="Fr">
 
 <head>
   <meta charset="utf-8" />
